@@ -6,6 +6,9 @@ Kleo is a powerful browser extension designed to democratize data sharing and en
 ## What it does
 Kleo integrates with partner websites and pre-fills relevant user data from browsing history on its pop-up. Users can easily manage and share these attributes with a single click, similar to managing cookie preferences. By empowering users to have custody of their data, Kleo aligns with the Web3 narrative and eliminates the reliance on centralized servers.
 
+## Video Demonstration
+https://youtu.be/oyLJF6WaIPw
+
 ## The Problem
 Web3 platforms lack user data, limiting their ability to provide personalized experiences and recommendations.
 
